@@ -11,7 +11,7 @@ const Contact = () => {
                         <h3>Let's Work Together</h3>
                         <p>
                             Have a project in mind or just want to say hi?
-                            Feel free to reach out to me.
+                            Feel free to reach out to us.
                         </p>
 
                         <div className="contact-details">

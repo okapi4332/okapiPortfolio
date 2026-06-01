@@ -40,7 +40,7 @@ const Projects = () => {
     return (
         <section id="projects" className="section-padding projects">
             <div className="container">
-                <h2 className="section-title">My <span className="gradient-text">Projects</span></h2>
+                <h2 className="section-title">Our <span className="gradient-text">Projects</span></h2>
                 <div className="projects-grid">
                     {projectsData.map((project) => (
                         <div key={project.id} className="glass-card project-card">

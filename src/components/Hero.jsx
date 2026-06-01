@@ -6,16 +6,16 @@ const Hero = () => {
         <section className="hero">
             <div className="container hero-container">
                 <div className="hero-content">
-                    <span className="greeting">Hello, I'm</span>
+                    <span className="greeting">Hello, We're</span>
                     <h1 className="name">Okapi<span className="dot">.</span></h1>
                     <h2 className="role">Mobile & <span className="gradient-text">Website Developer</span></h2>
                     <p className="description">
-                        I build modern, responsive, and user-friendly web and mobile applications.
+                        We build modern, responsive, and user-friendly web and mobile applications.
                         Based in Dodoma, Tanzania.
                     </p>
                     <div className="hero-buttons">
                         <a href="#projects" className="btn btn-primary">View Projects</a>
-                        <a href="#contact" className="btn btn-secondary">Contact Me</a>
+                        <a href="#contact" className="btn btn-secondary">Contact Us</a>
                     </div>
                 </div>
                 <div className="hero-visual">
