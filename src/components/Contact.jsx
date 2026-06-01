@@ -26,7 +26,7 @@ const Contact = () => {
                             <div className="contact-item">
                                 <div className="icon">📞</div>
                                 <div className="details">
-                                    <h4>Phone</h4>
+                                    <h4>Phone / WhatsApp</h4>
                                     <a href="tel:+255745740502">+255 745 740 502</a>
                                 </div>
                             </div>
