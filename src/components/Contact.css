@@ -56,6 +56,11 @@
     margin: 0;
 }
 
+.email-sep {
+    color: var(--text-secondary);
+    font-weight: 400;
+}
+
 @media (max-width: 768px) {
     .contact-info {
         padding: 2rem;
