@@ -13,7 +13,7 @@ const Footer = () => {
                     &copy; {new Date().getFullYear()} Okapi. All rights reserved.
                 </p>
                 <div className="social-links">
-                    <a href="https://www.instagram.com/o.k.a.p.i_?igsh=MTZqY3FkMnUwaWV3cA%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
+                    <a href="https://www.instagram.com/thegreenview_design/" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
                         <FaInstagram />
                     </a>
                     <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="GitHub">
