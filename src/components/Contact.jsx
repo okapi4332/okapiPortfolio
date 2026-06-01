@@ -38,24 +38,16 @@ const Contact = () => {
                                     <a href="mailto:johnstonejonathan419@gmail.com">johnstonejonathan419@gmail.com</a>
                                 </div>
                             </div>
+
+                            <div className="contact-item">
+                                <div className="icon">✉️</div>
+                                <div className="details">
+                                    <h4>Email</h4>
+                                    <a href="mailto:noelsaul27@gmail.com">noelsaul27@gmail.com</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-
-                    <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
-                        <div className="form-group">
-                            <label htmlFor="name">Name</label>
-                            <input type="text" id="name" placeholder="Your Name" />
-                        </div>
-                        <div className="form-group">
-                            <label htmlFor="email">Email</label>
-                            <input type="email" id="email" placeholder="Your Email" />
-                        </div>
-                        <div className="form-group">
-                            <label htmlFor="message">Message</label>
-                            <textarea id="message" rows="5" placeholder="Your Message"></textarea>
-                        </div>
-                        <button type="submit" className="btn btn-primary">Send Message</button>
-                    </form>
                 </div>
             </div>
         </section>
